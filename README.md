@@ -1,0 +1,12 @@
+#### List of HTML tags and their sources:
+ - [header](http://www.tutorialrepublic.com/html-reference/html5-header-tag.php)
+ - [footer](http://www.tutorialrepublic.com/html-reference/html5-footer-tag.php)
+ - [Nav](http://www.tutorialrepublic.com/html-reference/html5-nav-tag.php)
+ - [Section](http://blog.teamtreehouse.com/use-html5-sectioning-elements)
+ - [List of all HTML5 Tags](http://www.tutorialrepublic.com/html-reference/html5-tags.php)
+ - [article]
+    -  [part one](http://html5doctor.com/the-article-element/)
+    -  [part two](http://www.tutorialrepublic.com/html-reference/html5-article-tag.php)
+ - [aside]
+    -  [part one](http://html5doctor.com/understanding-aside/)
+    -  [part two](http://www.tutorialrepublic.com/html-reference/html5-aside-tag.php)
